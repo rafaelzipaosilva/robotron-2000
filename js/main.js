@@ -21,13 +21,13 @@ const pecas = {
     forca: 0,
     poder: 7,
     energia: 48,
-    velocidade: -24,
+    velocidade: -4,
   },
   pernas: {
     forca: 27,
     poder: 21,
     energia: -32,
-    velocidade: 42,
+    velocidade: 43,
   },
   foguetes: {
     forca: 0,
